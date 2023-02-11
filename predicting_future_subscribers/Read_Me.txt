@@ -2,9 +2,9 @@
 #####
 The files:
 
-"The_home_assigment_" - here I describe my solution for Q1, Q2, and Q3.
+"predicting_future_subscribers" - here I describe my workflow and analysis
 
-"home_assigment_main.ipynb" - here is the main research notebook, here you can see the flow of the model, from data to final results. Also, in the end of the notebooks are some EDA that i did, although most of my EDA was not saved. 
+"main.ipynb" - here is the main research notebook, here you can see the flow of the model, from data to final results. Also, in the end of the notebooks are some EDA that i did, although most of my EDA was not saved.
 
 "imports.py" - here are all the relevant imports
 
