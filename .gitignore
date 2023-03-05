@@ -1,5 +1,5 @@
 home_assigment/
-
+*.csv
 
 
 # Byte-compiled / optimized / DLL files
@@ -10,7 +10,7 @@ __pycache__/
 #f1
 #f2_2
 # f2
-
+# f3
 
 # Distribution / packaging
 .Python
